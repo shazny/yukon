@@ -18,7 +18,7 @@ Students
 -view student list
 
 NOTE-
-database is scaled to create class room date/time slots, but the system is not developed to manage the date/time slots 
+database is scaled to create date/time slots for each class room and asign intructors , but the system is not developed to manage the date/time slots 
 
 
 
